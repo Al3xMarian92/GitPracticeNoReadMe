@@ -1,0 +1,52 @@
+{
+  "Student": [
+    {
+      "id" : 0,
+      "firstName": "Doris",
+      "lastName": "Ellison",
+      "age": 22,
+      "grades": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "attendance": {
+        "date": "11-30-2021",
+        "isPresent": true
+      }
+    },
+    {
+      "id": 1,
+      "firstName": "Tameka",
+      "lastName": "Windsor",
+      "age": 23,
+      "grades": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "attendance": {
+        "date": "11-30-2021",
+        "isPresent": false
+      }
+    }
+  ],
+  "Professor": [
+    {
+      "id": 0,
+      "firstName": "Jordan",
+      "lastName": "Sands",
+      "age": 34
+    },
+    {
+      "id": 1,
+      "firstName": "Macy",
+      "lastName": "Coalfield",
+      "age": 35
+    }
+  ]
+}
